@@ -1,0 +1,1 @@
+This script export 10 most recent games to .tsv file. It ommits fellowPlayers field and flattens stats field. 
